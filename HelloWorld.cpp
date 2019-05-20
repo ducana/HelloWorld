@@ -1,4 +1,4 @@
-#define GalHLADebug 1
+#define GalHLADebug 1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #define MYTIMEAPI
 #include "Country.hh"
